@@ -6,7 +6,7 @@ const layout = ({children}) => {
     return (
         <div className='max-w-350 md:mx-auto py-4 px-12'>
             <Navbar></Navbar>
-            <div className='h-[90vh]'>{children}</div>
+            <div className=''>{children}</div>
             <Footer></Footer>
         </div>
     );
