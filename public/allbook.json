@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "img": "../src/app/assets/allimg/img1.jpg",
+    "bookName": "The Midnight Library",
+    "category": "Fiction",
+    "author": "Matt Haig",
+    "rating": 4.5,
+    "price": 14.99,
+    "language": "English",
+    "description": "The Midnight Library by Matt Haig is a compelling and emotionally charged novel exploring the infinite possibilities of life choices and the concept of regret. The story follows Nora Seed, a woman overwhelmed by feelings of failure, who finds herself in a magical library that exists between life and death. Within this library, each book represents a different life she could have lived, allowing her to explore the outcomes of choices she never made. Through these experiences, Nora discovers the profound effects of small decisions and gains insight into the value of her own life. The novel blends elements of fantasy, philosophy, and emotional realism, making it both thought-provoking and relatable. Themes of mental health, personal growth, and the pursuit of happiness are skillfully interwoven, encouraging readers to reflect on their own lives and consider how perspective shapes reality. Haig’s writing style is both accessible and evocative, drawing readers into Nora’s journey with vivid descriptions and emotionally resonant moments. By the end, readers are left with a renewed sense of hope, understanding that every life has its unique significance, and even the smallest choices can lead to profound transformation and self-discovery."
+  },
+  {
+    "id": 2,
+    "img": "../src/app/assets/allimg/img2.jpg",
+    "bookName": "Cien Años de Soledad",
+    "category": "Magical Realism",
+    "author": "Gabriel García Márquez",
+    "rating": 4.8,
+    "price": 18.99,
+    "language": "Spanish",
+    "description": "Cien Años de Soledad (One Hundred Years of Solitude) by Gabriel García Márquez is an extraordinary masterpiece of magical realism that chronicles the multi-generational saga of the Buendía family in the fictional town of Macondo. The novel intertwines reality with fantastical elements, depicting events that are both extraordinary and intimately human. García Márquez explores themes of love, fate, solitude, and the cyclical nature of history with rich, poetic language that captures the imagination of readers. Characters are vividly developed, each embodying different aspects of human nature, desires, and flaws, while their interwoven lives create a tapestry of complexity and depth. The narrative seamlessly moves between generations, blending historical, political, and social commentary with myth and allegory. The novel’s innovative structure challenges traditional storytelling, immersing readers in a world where time is fluid and magical occurrences are natural. With its intricate plot, memorable characters, and profound philosophical reflections, Cien Años de Soledad remains a seminal work in world literature, offering insight into human experience, cultural identity, and the universal struggles of existence that continue to resonate across generations."
+  },
+  {
+    "id": 3,
+    "img": "../src/app/assets/allimg/img3.jpg",
+    "bookName": "Le Petit Prince",
+    "category": "Children / Philosophy",
+    "author": "Antoine de Saint-Exupéry",
+    "rating": 4.7,
+    "price": 12.99,
+    "language": "French",
+    "description": "Le Petit Prince by Antoine de Saint-Exupéry is a timeless tale that combines the charm of a children's story with profound philosophical insights, making it a literary work cherished by readers of all ages. The story follows a young prince who travels from planet to planet, meeting eccentric and insightful characters, each representing different human traits and societal norms. Through these encounters, the book explores themes of love, friendship, responsibility, loss, and the importance of seeing beyond the superficial aspects of life to understand deeper truths. Saint-Exupéry’s poetic writing and delicate illustrations create a whimsical yet thoughtful narrative that encourages reflection on human nature and relationships. The simplicity of the story contrasts with its profound messages, revealing the complexities of life through the eyes of a child. Le Petit Prince emphasizes imagination, curiosity, and empathy, reminding readers that the essential aspects of life are often invisible to the eye. The novel’s enduring appeal lies in its ability to communicate wisdom about human emotions, ethical conduct, and the search for meaning, making it a timeless classic that inspires introspection and philosophical contemplation across generations."
+  },
+  {
+    "id": 4,
+    "img": "../src/app/assets/allimg/img4.jpg",
+    "bookName": "Rich Dad Poor Dad",
+    "category": "Finance / Self-Help",
+    "author": "Robert Kiyosaki",
+    "rating": 4.4,
+    "price": 16.49,
+    "language": "English",
+    "description": "Rich Dad Poor Dad by Robert Kiyosaki is an influential personal finance book that explores the contrasting mindsets and financial philosophies of the author’s two father figures—his biological father, the “Poor Dad,” and the father of his childhood friend, the “Rich Dad.” The book delves into essential financial principles such as investing, entrepreneurship, asset accumulation, and understanding money as a tool for building wealth. Kiyosaki emphasizes the importance of financial education, challenging conventional beliefs about work, income, and security. Through anecdotal narratives, the book illustrates practical strategies for making money work for the reader rather than being constrained by traditional employment or consumer habits. Rich Dad Poor Dad covers topics such as the importance of financial literacy, creating passive income, risk management, and the value of learning from mistakes. Its approachable writing style, relatable examples, and actionable advice make it accessible to readers at various stages of their financial journey. The book encourages a shift in perspective from working for money to having money work for you, fostering a mindset of empowerment, independence, and strategic financial thinking that has helped millions rethink wealth creation."
+  },
+  {
+    "id": 5,
+    "img": "../src/app/assets/allimg/img5.jpg",
+    "bookName": "गोदान",
+    "category": "Fiction",
+    "author": "Munshi Premchand",
+    "rating": 4.6,
+    "price": 11.99,
+    "language": "Hindi",
+    "description": "गोदान (Godan) by Munshi Premchand is a landmark Hindi novel that vividly portrays rural Indian life in the early twentieth century. The story revolves around Hori, a poor farmer, whose struggles with poverty, social norms, and the responsibilities of family and society reveal the harsh realities of rural existence. Premchand’s narrative explores themes of class inequality, exploitation, human resilience, and moral dilemmas, presenting characters who are deeply human in their strengths and weaknesses. The novel reflects the socio-economic challenges faced by Indian peasants, highlighting issues of indebtedness, landlord oppression, and the impact of colonial policies. With meticulous attention to social detail and cultural authenticity, Godan captures the aspirations, frustrations, and ethical conflicts of its characters, making it a profound study of human nature and societal pressures. Premchand’s empathetic storytelling, combined with rich characterization and moral undertones, ensures that the novel resonates with readers beyond its historical context. Godan is celebrated not only as a literary masterpiece in Hindi literature but also as a socially conscious narrative that examines human dignity, ethical responsibility, and the enduring human spirit amidst adversity."
+  },
+  {
+    "id": 6,
+    "img": "../src/app/assets/allimg/img6.jpg",
+    "bookName": "Kafka on the Shore",
+    "category": "Fiction / Magical Realism",
+    "author": "Haruki Murakami",
+    "rating": 4.5,
+    "price": 17.99,
+    "language": "Japanese",
+    "description": "Kafka on the Shore by Haruki Murakami is a mesmerizing work of contemporary Japanese literature that blends surrealism, magical realism, and intricate character-driven storytelling. The novel follows two parallel narratives: Kafka Tamura, a fifteen-year-old runaway, and Nakata, an elderly man with mysterious abilities. As their paths converge in enigmatic and unexpected ways, the story explores themes of identity, fate, consciousness, memory, and the metaphysical boundaries between reality and imagination. Murakami’s prose is evocative and lyrical, creating dreamlike atmospheres that blur the line between the mundane and the extraordinary. Characters grapple with existential questions, complex emotions, and the consequences of their choices, providing a profound exploration of human psychology. The narrative incorporates elements of music, literature, and mythology, enriching the thematic depth and cultural context. Kafka on the Shore challenges conventional narrative structures, inviting readers to interpret symbolism and meaning within the story. It is both thought-provoking and immersive, combining suspense, introspection, and the fantastical. Murakami’s novel has been widely acclaimed for its imaginative scope, philosophical depth, and the way it resonates emotionally, leaving readers pondering the mysteries of life and the self long after the final page."
+  },
+
+
+
+  {
+    "id": 7,
+    "img": "../src/app/assets/allimg/img7.jpg",
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "category": "History / Non-Fiction",
+    "author": "Yuval Noah Harari",
+    "rating": 4.7,
+    "price": 21.49,
+    "language": "English",
+    "description": "Sapiens: A Brief History of Humankind by Yuval Noah Harari is an ambitious and thought-provoking work that explores the development of Homo sapiens from prehistoric times to the modern era. Harari synthesizes insights from anthropology, history, biology, and economics to provide a cohesive narrative of human evolution, societal structures, and cultural transformation. The book examines how cognitive revolutions enabled humans to create shared myths, form complex societies, and dominate the planet. Topics such as the Agricultural Revolution, the unification of humankind, the Scientific Revolution, and modern capitalism are explained with clarity and analytical depth, making challenging concepts accessible to general readers. Harari also interrogates the philosophical and ethical implications of technological and genetic advancements, prompting reflection on the future trajectory of humanity. Rich with examples, compelling arguments, and engaging storytelling, Sapiens challenges readers to reconsider conventional assumptions about society, culture, and progress. The narrative’s breadth and insight make it not only informative but also intellectually stimulating, offering profound understanding of the forces that have shaped civilizations and highlighting the choices and responsibilities of humans in shaping the future of the species."
+  },
+  {
+    "id": 8,
+    "img": "../src/app/assets/allimg/img8.jpg",
+    "bookName": "El Amor en los Tiempos del Cólera",
+    "category": "Romance",
+    "author": "Gabriel García Márquez",
+    "rating": 4.6,
+    "price": 15.99,
+    "language": "Spanish",
+    "description": "El Amor en los Tiempos del Cólera (Love in the Time of Cholera) by Gabriel García Márquez is a profound exploration of love, passion, and human endurance, set against the vibrant backdrop of the Caribbean coast in the late nineteenth and early twentieth centuries. The novel tells the story of Florentino Ariza and Fermina Daza, whose youthful romance is thwarted by social expectations and personal circumstances. Despite decades of separation, Florentino’s unwavering devotion persists, highlighting the transformative power of love over time. Márquez’s writing style combines poetic language with intricate character development, blending realistic social details with deeply emotional narrative arcs. Themes such as loyalty, patience, aging, and the interplay between desire and morality are woven throughout the story. The novel examines the complexities of human emotions and relationships, portraying love in its many forms, including romantic longing, companionship, and the subtleties of unspoken attachment. Through richly depicted settings and multi-dimensional characters, readers are immersed in a world where passion, societal pressures, and human frailty coexist, making this work a timeless and universally resonant story about the enduring nature of the human heart and the enduring possibilities of connection and fulfillment across a lifetime."
+  },
+  {
+    "id": 9,
+    "img": "../src/app/assets/allimg/img9.jpg",
+    "bookName": "Les Misérables",
+    "category": "Historical Fiction",
+    "author": "Victor Hugo",
+    "rating": 4.8,
+    "price": 19.99,
+    "language": "French",
+    "description": "Les Misérables by Victor Hugo is a monumental work of literature that delves into the depths of human suffering, moral redemption, and social justice in 19th century France. The novel follows a diverse array of characters, most notably Jean Valjean, whose journey from imprisoned convict to compassionate benefactor reflects the transformative power of forgiveness and resilience. Hugo masterfully interweaves the personal struggles of his characters with larger societal issues, including poverty, inequality, political unrest, and moral philosophy. The narrative spans decades, providing a panoramic view of French society while exploring complex ethical dilemmas, the consequences of law and morality, and the enduring human pursuit of dignity and justice. Rich in symbolism, historical detail, and philosophical insight, Les Misérables challenges readers to reflect on societal responsibility, compassion, and the capacity for personal and social change. Hugo’s intricate plotting, vivid characterisation, and eloquent prose create a timeless and emotionally resonant story that continues to captivate and inspire readers worldwide, highlighting the enduring human struggle for love, justice, and hope amidst adversity."
+  },
+  {
+    "id": 10,
+    "img": "../src/app/assets/allimg/img10.jpg",
+    "bookName": "Pachinko",
+    "category": "Historical Fiction",
+    "author": "Min Jin Lee",
+    "rating": 4.6,
+    "price": 18.49,
+    "language": "Korean",
+    "description": "Pachinko by Min Jin Lee is an epic multi-generational novel that explores the experiences of a Korean family living in Japan from the early 20th century through the 1980s. The story examines themes of identity, belonging, resilience, and the hardships of life as an immigrant community facing discrimination, poverty, and social exclusion. Through detailed and intimate character development, Lee portrays the struggles of successive generations, highlighting the tension between personal ambitions, familial duties, and cultural heritage. The novel’s title refers to a popular Japanese game that symbolizes chance, fate, and perseverance, reflecting the uncertainties that shape the characters’ lives. Pachinko combines historical context with richly crafted narratives, illustrating how external forces such as politics, economics, and societal norms influence personal decisions and relationships. Lee’s writing is emotionally resonant and meticulously researched, allowing readers to connect with the characters’ triumphs and tragedies. Pachinko stands as a powerful exploration of endurance, identity, and the human spirit, offering a deeply moving portrayal of love, sacrifice, and the complexity of navigating life as a marginalized community in a foreign land."
+  },
+  {
+    "id": 11,
+    "img": "../src/app/assets/allimg/img11.jpg",
+    "bookName": "The Catcher in the Rye",
+    "category": "Fiction",
+    "author": "J.D. Salinger",
+    "rating": 4.3,
+    "price": 13.99,
+    "language": "English",
+    "description": "The Catcher in the Rye by J.D. Salinger is a classic coming-of-age novel that captures the complex emotional landscape of adolescence with authenticity and nuance. The story follows Holden Caulfield, a disaffected teenager navigating the challenges of identity, alienation, and the transition from childhood to adulthood in post-World War II New York. Salinger’s narrative voice is distinctive, blending cynicism, vulnerability, and humor, allowing readers to engage deeply with Holden’s inner world. Through his interactions with peers, family, and strangers, the novel explores themes of innocence, societal expectations, mental health, and the search for genuine human connection. The protagonist’s critical perspective on adult hypocrisy and societal norms resonates universally, making the story relevant across generations. Salinger’s attention to detail and psychological depth provides a vivid portrayal of adolescence, capturing both the turbulence and the insight that accompany this stage of life. The Catcher in the Rye continues to be celebrated for its innovative narrative style, empathetic characterisation, and enduring exploration of youthful angst, rebellion, and the universal quest for identity and meaning in a complex world."
+  },
+  {
+    "id": 12,
+    "img": "../src/app/assets/allimg/img12.jpg",
+    "bookName": "Norwegian Wood",
+    "category": "Romance / Fiction",
+    "author": "Haruki Murakami",
+    "rating": 4.4,
+    "price": 16.49,
+    "language": "Japanese",
+    "description": "Norwegian Wood by Haruki Murakami is a poignant coming-of-age novel that explores love, loss, mental health, and personal growth within the context of 1960s Tokyo. The story follows Toru Watanabe, a college student navigating complex relationships, the grief of losing friends, and the challenges of emotional intimacy. Murakami’s writing is both lyrical and understated, creating a reflective atmosphere that captures the internal struggles of his characters with subtlety and depth. Themes of existential contemplation, the impermanence of life, and the emotional turbulence of youth are interwoven throughout the narrative, providing readers with both introspective insights and emotional resonance. Norwegian Wood delves into the fragility and intensity of human connections, highlighting the transformative power of love and the enduring impact of grief. The novel’s evocative depiction of setting, culture, and human psychology allows readers to immerse themselves in the protagonist’s world, experiencing the bittersweet complexities of relationships and personal growth. Murakami’s careful balance of narrative realism, emotional depth, and philosophical reflection makes Norwegian Wood a timeless exploration of human experience, memory, and the search for meaning and understanding in life’s most intimate moments."
+  }
+
+
+
+
+
+
+
+
+
+
+
+]

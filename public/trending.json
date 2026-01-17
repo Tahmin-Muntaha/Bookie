@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "img": "../src/app/assets/trending/img1.jpg",
+    "bookName": "Atomic Habits",
+    "category": "Self‑Help",
+    "author": "James Clear",
+    "rating": 4.7,
+    "price": 16.49,
+    "language": "English",
+    "description": "Atomic Habits by James Clear is a transformative self‑improvement book that offers a practical and powerful framework for changing habits. The book demonstrates how small, incremental changes in daily behaviour can compound into remarkable results over time. Clear blends cutting‑edge psychology and neuroscience with engaging stories to illustrate how tiny shifts in mindset, environment, and routines can break bad habits and build good ones. The core premise is simple but profound: focus on improving by just 1% each day, and the cumulative effect leads to extraordinary outcomes. Readers will find actionable strategies for habit formation, such as the four laws of behavior change — make it obvious, make it attractive, make it easy, and make it satisfying. Each chapter provides clear steps and examples to help readers implement the concepts in real life. Whether someone is trying to quit smoking, exercise more regularly, or write a book, Atomic Habits provides tools that are useful, research‑backed, and easy to apply, making it one of the most practical self‑help books of the decade."
+  },
+  {
+    "id": 2,
+    "img": "../src/app/assets/trending/img2.jpg",
+    "bookName": "Fourth Wing",
+    "category": "Fantasy Romance",
+    "author": "Rebecca Yarros",
+    "rating": 4.6,
+    "price": 18.99,
+    "language": "English",
+    "description": "Fourth Wing by Rebecca Yarros is a captivating fantasy romance that has captured the attention of readers around the world. In a richly imagined world full of dragons, magic, and high‑stakes training academies, the story follows a young protagonist who must navigate dangerous trials, political intrigue, and complex relationships. What makes this book stand out is the emotional depth woven into its sweeping fantasy backdrop — characters are not merely fighters but people with dreams, fears, and evolving loyalties. The romance at the heart of the narrative is intense and heartfelt, adding a layer of emotional engagement that keeps readers invested from page one to the final chapter. Yarros’s world‑building is detailed and vivid, making the realms and cultures in the story feel distinct and memorable. Fans of both fantasy adventure and romantic drama will find something to love in Fourth Wing. Whether you’re drawn to soaring action scenes or tender character moments, this book delivers a blend of both, which is why it remains one of the most discussed and beloved fantasy titles in recent years."
+  },
+  {
+    "id": 3,
+    "img": "../src/app/assets/trending/img3.jpg",
+    "bookName": "Onyx Storm",
+    "category": "Fantasy Romance",
+    "author": "Rebecca Yarros",
+    "rating": 4.5,
+    "price": 28.99,
+    "language": "English",
+    "description": "Onyx Storm, part of Rebecca Yarros’s Empyrean series, has become a fan favourite for its unique blend of fantasy and romance. Set in a world of mythical creatures, epic quests, and turbulent emotions, the story follows determined protagonists who face overwhelming odds and internal conflicts that test their courage and hearts. The narrative weaves together emotional character arcs with heart‑pounding action scenes, making it appealing to readers who enjoy both dramatic world building and deep interpersonal connections. What elevates Onyx Storm is its exploration of themes like sacrifice, destiny, and the resilience of the human spirit, which are infused into every chapter. Yarros’s writing has a lyrical quality that pulls you into the lives of her characters and makes you feel every triumph and setback as if it were your own. The friendships, rivalries, and romances in the book add rich layers to an already compelling plot, ensuring that Onyx Storm resonates with both fantasy lovers and those seeking powerful character journeys in their reads."
+  },
+  {
+    "id": 4,
+    "img": "../src/app/assets/trending/img4.jpg",
+    "bookName": "It Ends With Us",
+    "category": "Romance",
+    "author": "Colleen Hoover",
+    "rating": 4.7,
+    "price": 14.99,
+    "language": "English",
+    "description": "It Ends With Us by Colleen Hoover is a deeply emotional contemporary romance novel that tackles complex themes surrounding love, resilience, and the human experience. The story centres on a young woman’s journey through intense relationships, personal growth, and difficult decisions that demand emotional strength. Hoover’s writing is known for its compassionate portrayal of characters who face challenges and heartbreak while navigating love in its many forms. What distinguishes this novel is how it balances tender romantic moments with the harsh realities of adult life and the complicated nature of human relationships. The author’s ability to evoke deep empathy from her readers has made this book a powerful favourite in modern romance fiction circles. Loved for its honesty and emotional depth, It Ends With Us resonates with those who appreciate character‑driven narratives and heartfelt storytelling. Whether you’re a long‑time romance reader or new to the genre, this book offers a compelling story of courage, healing, and the strength we find within ourselves when faced with life’s greatest trials."
+  },
+  {
+    "id": 5,
+    "img": "../src/app/assets/trending/img5.jpg",
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "category": "History / Non‑Fiction",
+    "author": "Yuval Noah Harari",
+    "rating": 4.6,
+    "price": 22.49,
+    "language": "English",
+    "description": "Sapiens: A Brief History of Humankind by Yuval Noah Harari is an ambitious and thought‑provoking exploration of the entire arc of human history. Harari synthesises knowledge from anthropology, biology, economics, and history to provide readers with a bold narrative about how Homo sapiens came to dominate the Earth. The book is celebrated for its ability to break down complex historical developments into clear, engaging prose that keeps readers hooked from beginning to end. Instead of simply listing facts and dates, Harari encourages readers to think critically about the myths, innovations, and social structures that have shaped human civilisation. From the Cognitive Revolution and the Agricultural Revolution to the Scientific Revolution and the modern globalised world, Sapiens offers fresh perspectives on familiar topics and challenges many commonly held assumptions. This compelling narrative has made Sapiens a staple on popular reading lists, appealing to both history enthusiasts and general readers seeking a comprehensive yet accessible look at humanity’s shared past."
+  },
+  {
+    "id": 6,
+    "img": "../src/app/assets/trending/img6.jpg",
+    "bookName": "Project Hail Mary",
+    "category": "Science Fiction",
+    "author": "Andy Weir",
+    "rating": 4.7,
+    "price": 15.99,
+    "language": "English",
+    "description": "Project Hail Mary by Andy Weir is a thrilling science fiction adventure that combines clever scientific problem‑solving with heart‑pounding suspense. The story follows a lone astronaut who wakes up on a spacecraft with no memory of his mission or how he got there. As he pieces together his purpose, he finds himself humanity’s last hope against an extinction‑level threat. Weir’s writing blends real science with imaginative leaps that remain accessible and entertaining to both science‑minded readers and casual fans of speculative fiction. The blend of humour, ingenuity, and emotional depth sets Project Hail Mary apart in a genre full of cosmic stakes and existential questions. With vivid descriptions, compelling pacing, and an engaging central mystery, this novel keeps readers invested from the first page to the last. Whether you love hard science fiction or gripping thrillers, this book delivers excitement and thought‑provoking scenarios that linger long after you’ve finished reading."
+  },
+  { 
+    "id": 7,
+    "img": "../src/app/assets/trending/img7.jpg",
+    "bookName": "The Alchemist",
+    "category": "Fiction / Philosophy",
+    "author": "Paulo Coelho",
+    "rating": 4.5,
+    "price": 12.99,
+    "language": "English",
+    "description": "The Alchemist by Paulo Coelho is a timeless philosophical fiction that has enchanted readers across generations with its message of self‑discovery and personal destiny. The story follows Santiago, a young shepherd boy who embarks on a journey to find a worldly treasure, only to discover deeper truths about life, purpose, and the nature of happiness. Coelho’s elegant storytelling and simple yet profound prose make complex life lessons feel accessible and universally relevant. Each chapter is filled with rich symbolism, making the narrative resonate on an emotional and spiritual level. This book encourages readers to listen to their hearts, recognise the signs that guide them, and pursue their dreams unabashedly. The Alchemist’s enduring appeal stems from its uplifting philosophy, memorable characters, and the way it celebrates curiosity, courage, and the interconnectedness of all lives. It remains one of the most beloved and widely read novels globally, cherished by people seeking meaning and inspiration in their own journeys."
+  },
+  {
+    "id": 8,
+    "img": "../src/app/assets/trending/img8.jpg",
+    "bookName": "It",
+    "category": "Horror / Fiction",
+    "author": "Stephen King",
+    "rating": 4.4,
+    "price": 17.99,
+    "language": "English",
+    "description": "It by Stephen King is a classic horror masterpiece that has terrified and fascinated readers since its publication. Set in the fictional town of Derry, Maine, the novel follows a group of children who are stalked by an ancient, shape‑shifting entity that emerges every few decades to feed on fear. King’s eerie storytelling and skillful characterisation breathe life into both the town and its inhabitants, making the setting feel as real as the psychological terror that creeps through every chapter. What makes It stand out is how it intertwines supernatural horror with the emotional complexities of childhood friendship, trauma, and memory. The novel’s layered narrative moves between past and present, revealing how fear shapes the lives and identities of the characters. With unforgettable scenes, chilling suspense, and deeply human themes, It is more than just a horror story — it’s a rich exploration of courage, loss, and the enduring power of hope. This novel remains among Stephen King’s most iconic and influential works."
+  }
+]
