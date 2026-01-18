@@ -1,8 +1,16 @@
+"use client"
+
+
 import { Book } from 'lucide-react';
 import Link from 'next/link';
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 const Navbar = () => {
+    const [isAuth,setIsAuth]=useState(false)
+    useEffect(()=>{
+        const cookies=document.cookie
+        setIsAuth(cookies.includes("auth=true"))
+    },[])
     return (
         <div className='flex justify-between items-center py-2 shadow-2xs mb-20'>
             <Link href="/">
@@ -11,7 +19,12 @@ const Navbar = () => {
             <div className='flex gap-4 items-center'>
                 <Link href="/">Home</Link>
                 <Link href="/all">All Books</Link>
-                <Link href="/login" className='hover:bg-[#f8b5c9] px-4 py-1 border border-gray rounded-full'>Log In</Link>
+                {
+                    isAuth?
+                    <Link href="/profile" className='hover:bg-[#f8b5c9] px-4 py-1 border border-gray rounded-full'>Profile</Link>
+                    :
+                    <Link href="/login" className='hover:bg-[#f8b5c9] px-4 py-1 border border-gray rounded-full'>Log In</Link>
+                }
             </div>
         </div>
     );

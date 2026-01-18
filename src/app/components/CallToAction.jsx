@@ -20,9 +20,9 @@ const CallToAction = () => {
           </p>
           <Link
             href="/all"
-            className="inline-flex items-center gap-2 my-2 font-medium w-[40%] px-8 py-4 bg-[#f8b5c9] rounded-full text-white"
+            className="inline-flex items-center gap-2 my-2 font-medium w-[50%] px-8 py-4 bg-[#f8b5c9] rounded-full text-white"
           >
-            Shop Collection <ArrowRight className="w-5 h-5" />
+            Explore Collection <ArrowRight className="w-5 h-5" />
           </Link>
         </div>
         <div className='relative hidden md:block'>

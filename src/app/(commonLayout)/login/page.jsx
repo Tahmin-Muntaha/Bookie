@@ -1,11 +1,13 @@
-import LoginForm from '@/app/components/LoginForm';
-import React from 'react';
+"use client"
+import LogInForm from '@/app/components/LogInForm';
+
 
 const LogInPage = () => {
+    
     return (
-        <div>
-            <LoginForm></LoginForm>
-        </div>
+       <div>
+        <LogInForm></LogInForm>
+       </div>
     );
 };
 
