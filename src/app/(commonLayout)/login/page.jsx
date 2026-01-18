@@ -1,4 +1,4 @@
-import LogInForm from "@/app/components/LogInForm";
+import LogInForm from "../../components/LogInForm";
 
 
 
