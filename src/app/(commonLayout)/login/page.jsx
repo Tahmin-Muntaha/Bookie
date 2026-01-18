@@ -1,5 +1,5 @@
-"use client"
-import LogInForm from '../../components/LogInForm';
+import LogInForm from "@/app/components/LogInForm";
+
 
 
 const LogInPage = () => {
