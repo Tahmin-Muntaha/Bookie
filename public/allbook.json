@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "../src/app/assets/allimg/img1.jpg",
+    "img": "/allimg/img1.jpg",
     "bookName": "The Midnight Library",
     "category": "Fiction",
     "author": "Matt Haig",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "../src/app/assets/allimg/img2.jpg",
+    "img": "/allimg/img2.jpg",
     "bookName": "Cien Años de Soledad",
     "category": "Magical Realism",
     "author": "Gabriel García Márquez",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "img": "../src/app/assets/allimg/img3.jpg",
+    "img": "/allimg/img3.jpg",
     "bookName": "Le Petit Prince",
     "category": "Children / Philosophy",
     "author": "Antoine de Saint-Exupéry",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "img": "../src/app/assets/allimg/img4.jpg",
+    "img": "/allimg/img4.jpg",
     "bookName": "Rich Dad Poor Dad",
     "category": "Finance / Self-Help",
     "author": "Robert Kiyosaki",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "img": "../src/app/assets/allimg/img5.jpg",
+    "img": "/allimg/img5.jpg",
     "bookName": "गोदान",
     "category": "Fiction",
     "author": "Munshi Premchand",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "img": "../src/app/assets/allimg/img6.jpg",
+    "img": "/allimg/img6.jpg",
     "bookName": "Kafka on the Shore",
     "category": "Fiction / Magical Realism",
     "author": "Haruki Murakami",
@@ -70,7 +70,7 @@
 
   {
     "id": 7,
-    "img": "../src/app/assets/allimg/img7.jpg",
+    "img": "/allimg/img7.jpg",
     "bookName": "Sapiens: A Brief History of Humankind",
     "category": "History / Non-Fiction",
     "author": "Yuval Noah Harari",
@@ -81,7 +81,7 @@
   },
   {
     "id": 8,
-    "img": "../src/app/assets/allimg/img8.jpg",
+    "img": "/allimg/img8.jpg",
     "bookName": "El Amor en los Tiempos del Cólera",
     "category": "Romance",
     "author": "Gabriel García Márquez",
@@ -92,7 +92,7 @@
   },
   {
     "id": 9,
-    "img": "../src/app/assets/allimg/img9.jpg",
+    "img": "/allimg/img9.jpg",
     "bookName": "Les Misérables",
     "category": "Historical Fiction",
     "author": "Victor Hugo",
@@ -103,7 +103,7 @@
   },
   {
     "id": 10,
-    "img": "../src/app/assets/allimg/img10.jpg",
+    "img": "/allimg/img10.jpg",
     "bookName": "Pachinko",
     "category": "Historical Fiction",
     "author": "Min Jin Lee",
@@ -114,7 +114,7 @@
   },
   {
     "id": 11,
-    "img": "../src/app/assets/allimg/img11.jpg",
+    "img": "/allimg/img11.jpg",
     "bookName": "The Catcher in the Rye",
     "category": "Fiction",
     "author": "J.D. Salinger",
@@ -125,7 +125,7 @@
   },
   {
     "id": 12,
-    "img": "../src/app/assets/allimg/img12.jpg",
+    "img": "/allimg/img12.jpg",
     "bookName": "Norwegian Wood",
     "category": "Romance / Fiction",
     "author": "Haruki Murakami",

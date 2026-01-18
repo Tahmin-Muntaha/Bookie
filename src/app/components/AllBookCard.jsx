@@ -49,7 +49,7 @@ const BookCard = ({ book }) => {
 
        
         <Link
-          href={`/${book.id}`}
+          href={`/all/${book.id}`}
           className="mt-4 inline-block text-center w-full bg-[#f8b5c9] hover:bg-[#f3a8c0] text-white py-2 rounded-lg font-medium transition"
         >
           View Details →
