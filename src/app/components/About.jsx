@@ -6,15 +6,15 @@ const About = () => {
     return (
         <div className="md:grid grid-cols-2 items-center gap-8 max-w-6xl mx-auto px-6 mb-20">
             <div>
-            <h2 class="text-3xl md:text-4xl  text-center font-semibold text-gray-900">
+            <h2 className="text-3xl md:text-4xl  text-center font-semibold text-gray-900">
   Our Mission
 </h2>
-<p class="text-gray-700 mt-4">
-  At <span class="text-[#f8b5c9] font-medium">Cozy Bookstore</span>, we handpick books 
+<p className="text-gray-700 mt-4">
+  At <span className="text-[#f8b5c9] font-medium">Cozy Bookstore</span>, we handpick books 
   that warm your heart and inspire your mind. From timeless classics to the latest cozy reads, 
   our mission is to make your reading experience delightful and memorable.
 </p>
-<p class="mt-3 text-[#f8b5c9] font-semibold italic">
+<p className="mt-3 text-[#f8b5c9] font-semibold italic">
   Curated reads, cozy moments.
 </p>
 

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "../src/app/assets/trending/img1.jpg",
+    "img": "/trending/img1.jpg",
     "bookName": "Atomic Habits",
     "category": "Self‑Help",
     "author": "James Clear",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "../src/app/assets/trending/img2.jpg",
+    "img": "/trending/img2.jpg",
     "bookName": "Fourth Wing",
     "category": "Fantasy Romance",
     "author": "Rebecca Yarros",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "img": "../src/app/assets/trending/img3.jpg",
+    "img": "/trending/img3.jpg",
     "bookName": "Onyx Storm",
     "category": "Fantasy Romance",
     "author": "Rebecca Yarros",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "img": "../src/app/assets/trending/img4.jpg",
+    "img": "/trending/img4.jpg",
     "bookName": "It Ends With Us",
     "category": "Romance",
     "author": "Colleen Hoover",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "img": "../src/app/assets/trending/img5.jpg",
+    "img": "/trending/img5.jpg",
     "bookName": "Sapiens: A Brief History of Humankind",
     "category": "History / Non‑Fiction",
     "author": "Yuval Noah Harari",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "img": "../src/app/assets/trending/img6.jpg",
+    "img": "/trending/img6.jpg",
     "bookName": "Project Hail Mary",
     "category": "Science Fiction",
     "author": "Andy Weir",
@@ -67,7 +67,7 @@
   },
   { 
     "id": 7,
-    "img": "../src/app/assets/trending/img7.jpg",
+    "img": "/trending/img7.jpg",
     "bookName": "The Alchemist",
     "category": "Fiction / Philosophy",
     "author": "Paulo Coelho",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "img": "../src/app/assets/trending/img8.jpg",
+    "img": "/trending/img8.jpg",
     "bookName": "It",
     "category": "Horror / Fiction",
     "author": "Stephen King",
