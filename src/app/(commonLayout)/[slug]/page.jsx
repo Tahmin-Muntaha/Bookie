@@ -4,7 +4,7 @@ import React from 'react';
 
 const TrendingDetails = async({params}) => {
     const {slug}= await params
-    const res=await fetch('http://localhost:3000/trending.json')
+    const res=await fetch('/trending.json')
     const books=await res.json()
     const book=books.filter(b=>b.id===Number(slug))
     console.log(book)

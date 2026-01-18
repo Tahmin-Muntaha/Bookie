@@ -2,7 +2,7 @@ import AllBookCard from '@/app/components/AllBookCard';
 import React from 'react';
 
 const AllPage = async() => {
-    const res=await fetch('http://localhost:3000/allbook.json')
+    const res=await fetch('/allbook.json')
     const books=await res.json()
 
     return (
