@@ -1,9 +1,9 @@
 import React from "react";
 import BookCard from "./BookCard";
-
+import books from '@/data/trending.json'
 const Trending = async () => {
-  const res = await fetch("/trending.json");
-  const books = await res.json();
+  // const res = await fetch("/trending.json");
+  // const books = await res.json();
 
   return (
     <div className="mb-20">

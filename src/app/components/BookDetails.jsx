@@ -3,6 +3,7 @@ import React from 'react';
 import { Star } from 'lucide-react';
 
 const BookDetails = ({ b }) => {
+  console.log(b.img)
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white rounded-2xl shadow-md mt-8">
       

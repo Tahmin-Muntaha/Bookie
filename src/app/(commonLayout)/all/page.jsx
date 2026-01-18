@@ -1,9 +1,9 @@
 import AllBookCard from '@/app/components/AllBookCard';
 import React from 'react';
-
+import books from "@/data/allbook.json"
 const AllPage = async() => {
-    const res=await fetch('/allbook.json')
-    const books=await res.json()
+    // const res=await fetch('/allbook.json')
+    // const books=await res.json()
 
     return (
         <div className='mb-20'>
